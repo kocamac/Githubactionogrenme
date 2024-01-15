@@ -1,0 +1,2 @@
+# Githubactionogrenme
+Github action öğrenme 
