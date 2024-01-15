@@ -1,0 +1,8 @@
+name: Ilk Workflow
+
+on:
+    push:
+        braches: [master]
+    pull_request:
+        braches: [master]
+        
